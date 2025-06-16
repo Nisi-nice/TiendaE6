@@ -9,6 +9,11 @@ body{
     background-color: #F9EAE1;
     border-radius: 20px;
     align-content: center;
+    overflow: hidden;
+}
+.rectangulo img{
+    max-width: 100%;
+    max-height: 100%;
 }
 #carrito{
     display: flex;
@@ -17,7 +22,7 @@ body{
     border-color:black ;
     padding: 10px
 }
-.item{
+.producto{
     width: 75px;
     height: 100px;
     background-color: #D1BE9C;
@@ -26,6 +31,13 @@ body{
     line-height: 100px;
     font-size: 10px;
     border: 2px solid black;
+}
+.productos{
+    width: 70%;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
 }
 .boton{
     padding: 2px 6px;
