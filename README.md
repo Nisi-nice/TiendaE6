@@ -1,0 +1,15 @@
+flor1 = Amanecer rosado | $400
+flor2 = Destellos de ternura | $350
+flor3 = Ramo del recuerdo | $340
+flor4 = Caricia de pétalos | $320
+flor5 = Pétalos de Alba | $220
+flor6 = Flor de luna | $300
+flor7 = Corazón silvestre | $400
+flor8 = Rosa pastel | $620
+flor9 = Sueño floral | $380
+flor10 = Dulce primavera | $300
+flor11 = Brisa de amor | $700
+flor12 = Rosa en eternidad | $400
+flor13 = Encanto natural | $500
+flor14 = Suspiro del rocío | $1000
+flor15 = Noche de rosas | $2000
